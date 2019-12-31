@@ -1,3 +1,4 @@
+
 # (Flights Data Exploration)
 ## by by (Mohammed Alabdullatif)
 
@@ -13,16 +14,18 @@ You can find the Data [Here](http://stat-computing.org/dataexpo/2009/the-data.ht
 
 -First i found the persntage for cancellation is 1.9% and the delay is 19.3%.
 -The top 10 that flight move from is:
-*ATL
-*ORD
-*DFW
-*LAX
-*DFN
-*PHX
-*DTW
-*SFO
-*IAH
-*EWR
+
+ 1. ATL
+2. ORD
+3. DFW
+4. LAX
+5. DFN
+6. PHX
+7. DTW
+8. SFO
+9. IAH
+10. EWR
+
 -EV Airline is the most delayed airlines in the top 10 origin flights
 -SFO Airport is the most chances to get a flight cancellation
 
